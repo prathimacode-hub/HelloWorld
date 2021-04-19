@@ -37,7 +37,7 @@ Output the string "Hello, World!" in any form.
 
 - Then in github, in your cloned repository find the option to make a pull request
 
-Anyone can contribute to this repository. Contributors will be added in README as well.
+Anyone can contribute to this repository. 
 
 
 ## ❤️ Project Admin
