@@ -1,6 +1,6 @@
 <h2>😄Hello World</h2>
 
-HelloWorld, this repository is made for fun. It aims to collaborate with various developers specialized in different programming languages to contribute Hello World codes in their specialized language in this repository.
+HelloWorld, this repository is made for collaborating with various developers specialized in different programming languages to contribute Hello World codes in this repository.
 
 Everyone is welcomed to add their solution. Feel free to push a PR. I will try to accept your solution as fast as possible ;)
 
@@ -43,6 +43,8 @@ Anyone can contribute to this repository. Contributors will be added in README a
 ## ❤️ Project Admin
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 **Prathima Kadari**
 
