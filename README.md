@@ -1,4 +1,4 @@
-<h2>😄Hello World</h2>
+<h2>✔Hello World</h2>
 
 HelloWorld, this repository is made for collaborating with various developers specialized in different programming languages to contribute Hello World codes in this repository.
 
