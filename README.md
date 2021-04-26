@@ -11,7 +11,7 @@ Collection of Hello World programs in all languages.
 
 <h2>📌Task</h2>
 
-Output the string "Hello, World!" in any form. 
+Output the string "Hello, World!".
 
 
 <h2>💥How to Collaborate?</h2>
