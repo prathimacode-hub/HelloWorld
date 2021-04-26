@@ -1,12 +1,12 @@
 <h2>✔Hello World</h2>
 
-HelloWorld, this repository is made for collaborating with various developers specialized in different programming languages to contribute Hello World codes in this repository.
+HelloWorld, this repository is made for collaborating with various developers specialized in different programming languages.
 
-Everyone is welcomed to add their solution. Feel free to push a PR. I will try to accept your solution as fast as possible ;)
+Everyone are welcomed. Feel free to push a PR. I will accept as fast as possible ;)
 
 Do check it out and follow these [guidelines](CONTRIBUTING.md) to make meaningful contributions
 
-Collection of Hello Worlds in all languages.
+Collection of Hello World programs in all languages.
 
 
 <h2>📌Task</h2>
@@ -16,13 +16,13 @@ Output the string "Hello, World!" in any form.
 
 <h2>💥How to Collaborate?</h2>
 
-- Create a folder of programming language you are coding on.
+- Never work on the master branch. 
 
-- Add your HelloWorld program
+- Create a folder of programming language you are coding on. (Ex: Python)
 
-- Add README.md file with screenshot of the output. It would be nice, if you also provide a short explanation.
+- Add your HelloWorld program (Sample format to [follow](https://github.com/prathimacode-hub/HelloWorld/blob/main/Arduino/HelloWorld.ino))
 
-- Never work on the master branch.
+- Bonus : Contributors would be added to README.md file.
 
 
 <h2>👨‍💻 Workflow:</h2>
