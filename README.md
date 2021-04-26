@@ -37,8 +37,6 @@ Output the string "Hello, World!" in any form.
 
 - Then in github, in your cloned repository find the option to make a pull request
 
-Anyone can contribute to this repository. 
-
 
 ## ❤️ Project Admin
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
