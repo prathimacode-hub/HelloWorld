@@ -4,7 +4,7 @@ This documentation contains a set of guidelines to help you during the contribut
 I'm happy to welcome all the contributions from anyone willing to add new scripts to this repository. Thank you for helping out and remember,
 **no contribution is too small.**
 
-<h2>💥Steps to Contribute:</h2>
+## 💥Steps to Contribute:
 
 1. Fork the repository to your own GitHub account.
 
@@ -61,11 +61,11 @@ I'm happy to welcome all the contributions from anyone willing to add new script
    $ git push -f origin master
 ```
 
-##Note:
+## Note:
 
 > - Do not edit/delete someone else's code in this repository. You can only insert new files/folder in this repository.
 
-> - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a Python code on hello world, then hello_world.py is one example of valid name.
+> - Give a meaningful name to file you are adding, for e.g., if you have written a Hello World code on Python, then HelloWorld.py is one example of valid name.
 
 ## What should I keep in mind while contributing?
 - When you are contributing, make sure that the work is entirely your own and not from some other source.
