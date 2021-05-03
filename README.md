@@ -20,7 +20,7 @@ Output the string "Hello, World!".
 
 - Create a folder of programming language you are coding on. (Ex: Python)
 
-- Add your HelloWorld program (Sample format to [follow](https://github.com/prathimacode-hub/HelloWorld/blob/main/Arduino/HelloWorld.ino))
+- Add your HelloWorld program (Sample format to [follow](https://github.com/prathimacode-hub/HelloWorld/blob/main/Arduino/HelloWorld_Prathima.ino))
 
 - Bonus : Contributors would be added to README.md file.
 
