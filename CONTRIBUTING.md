@@ -10,7 +10,7 @@ I'm happy to welcome all the contributions from anyone willing to add new script
 
 2. Clone the repository to your local machine
 ```
-   $ git clone "https://www.github.com/{Username}/HelloWorld.git"
+   $ git clone "https://www.github.com/{Username}/HelloWorld_Firstname.git"
 ```
    where username is your GitHub account username.
 
