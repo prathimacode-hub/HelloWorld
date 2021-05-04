@@ -38,6 +38,24 @@ Output the string "Hello, World!".
 - Then in github, in your cloned repository find the option to make a pull request
 
 
+<h2> ✨ Contributors </h2>
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+<tr>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/Riishabh"><img src="https://avatars.githubusercontent.com/u/83609714?v=4" width="100px;" alt=""/><br /><sub><b>Riishabh</b></sub></a><br /> </td>
+</tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## ❤️ Project Admin
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
