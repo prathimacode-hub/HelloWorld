@@ -1,4 +1,5 @@
-// RISHABH PAL -"Hello, World!" in c++
+// RISHABH PAL -"Hello, World!" in C++
+
 #include<iostream>
 using namespace std;
 int main(){
