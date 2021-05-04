@@ -1,4 +1,4 @@
-// RISHABH PAL - "Hello, World!" in Ada
+// RISHABH PAL -"Hello, World!" in Ada
 
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
