@@ -47,7 +47,6 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <!-- markdownlint-disable -->
 <table>
 <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a><br /> </td>
 <td align="center"><a href="https://github.com/Riishabh"><img src="https://avatars.githubusercontent.com/u/83609714?v=4" width="100px;" alt=""/><br /><sub><b>Riishabh</b></sub></a><br /> </td>
 </tr>
 </table>
