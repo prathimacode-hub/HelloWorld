@@ -48,6 +48,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <table>
 <tr>
 <td align="center"><a href="https://github.com/Riishabh"><img src="https://avatars.githubusercontent.com/u/83609714?v=4" width="100px;" alt=""/><br /><sub><b>Riishabh</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/Project-Xenith"><img src="https://avatars.githubusercontent.com/u/72210756?v=4" width="100px;" alt=""/><br /><sub><b>Sparsh Sundriyal</b></sub></a><br /> </td>
 </tr>
 </table>
 
