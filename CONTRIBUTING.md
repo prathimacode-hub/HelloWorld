@@ -65,7 +65,9 @@ I'm happy to welcome all the contributions from anyone willing to add new script
 
 > - Do not edit/delete someone else's code in this repository. You can only insert new files/folder in this repository.
 
-> - Give a meaningful name to file you are adding, for e.g., if you have written a Hello World code on Python, then HelloWorld.py is one example of valid name.
+> - Give a meaningful name to file you are adding, for e.g., if you have written a Hello World code on Python, then HelloWorld_FirstName.py is one example of valid name.
+
+> - Your program should follow this [template](https://github.com/prathimacode-hub/HelloWorld/blob/main/C%2B%2B/HelloWorld_Riishabh.cpp). 
 
 ## What should I keep in mind while contributing?
 - When you are contributing, make sure that the work is entirely your own and not from some other source.
