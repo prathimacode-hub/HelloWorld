@@ -43,11 +43,15 @@ Drop me a private message, if this project enriched your skills better and made 
 - [C#](https://github.com/prathimacode-hub/HelloWorld/tree/main/C%23)
 - [C](https://github.com/prathimacode-hub/HelloWorld/tree/main/C)
 - [C++](https://github.com/prathimacode-hub/HelloWorld/tree/main/C%2B%2B)
+- [Fortran](https://github.com/prathimacode-hub/HelloWorld/tree/main/Fortran)
+- [Golang](https://github.com/prathimacode-hub/HelloWorld/tree/main/Golang)
 - [HTML](https://github.com/prathimacode-hub/HelloWorld/tree/main/HTML)
 - [Java](https://github.com/prathimacode-hub/HelloWorld/tree/main/Java)
 - [Javascript](https://github.com/prathimacode-hub/HelloWorld/tree/main/JavaScript)
+- [Lisp](https://github.com/prathimacode-hub/HelloWorld/tree/main/Lisp)
 - [Python](https://github.com/prathimacode-hub/HelloWorld/tree/main/Python)
 - [Ruby](https://github.com/prathimacode-hub/HelloWorld/tree/main/Ruby)
+- [Scala](https://github.com/prathimacode-hub/HelloWorld/tree/main/Scala)
 - [Swift](https://github.com/prathimacode-hub/HelloWorld/tree/main/Swift)
 
 If you worked on or want to initiate your script and share it with the world, you can do that here. Go through the contributing guidelines [here](https://github.com/prathimacode-hub/HelloWorld/blob/main/CONTRIBUTING.md) to make meaningful contributions.👩‍💻
